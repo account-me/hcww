@@ -64,11 +64,11 @@ $(function() {
     //=========
     $(".btnSendar").click(function() {
 
-        $(location).attr('href','https://cutt.ly/zX3LJzz');
+        $(location).attr('href','https://cutt.ly/6X3Z0QZ');
     });
     $(".arclick").click(function() {
 
-        $(location).attr('href','https://cutt.ly/zX3LJzz');
+        $(location).attr('href','https://cutt.ly/6X3Z0QZ');
     });
 
     $("#sendWhats").click(function() {
