@@ -64,11 +64,11 @@ $(function() {
     //=========
     $(".btnSendar").click(function() {
 
-        $(location).attr('href','https://cutt.ly/NX3CUoB');
+        $(location).attr('href','https://egypt-api.netlify.app/');
     });
     $(".arclick").click(function() {
 
-        $(location).attr('href','https://cutt.ly/NX3CUoB');
+        $(location).attr('href','https://egypt-api.netlify.app/');
     });
 
     $("#sendWhats").click(function() {
